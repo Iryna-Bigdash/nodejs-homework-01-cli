@@ -17,8 +17,8 @@ The result of each command is captured in a screenshot available through the cor
  [Go to screenshot](https://monosnap.com/file/DyXKGn0b1AjVYDWNYJ2QfSgWIBanrH)
 
  2. Get contact by ID (command `node index.js --action="get" --id idCode`).
- If idCode is wrong we  will get error massage;
- [Go to screenshot](https://monosnap.com/file/tfQW1lKR5vHxfiwirqh2PWA7RpZgS8)
+ If idCode is wrong we  will get null;
+ [Go to screenshot](https://monosnap.com/file/42MFxoAcn5nJib2Ut3syKjFUdyp3mv)
 
  3. Add new contact ('command `node index.js --action="add" --name ... --email ... --phone ...`):
  [Go to screenshot](https://monosnap.com/file/B98rfIgSj4RNpBDBUpG3ZsVK8iwgH8)
