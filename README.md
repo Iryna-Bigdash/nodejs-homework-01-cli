@@ -1,4 +1,4 @@
-##Simple Command-Line Interface
+##Simple Command-Line Interface##
 ***
 
 __CLI (Command-Line Interface)__ is a command-line interface that allows interacting with a program by entering commands and receiving responses. Users can input commands from the keyboard or use scripts to interact with the program, perform operations, and manage its functions.
