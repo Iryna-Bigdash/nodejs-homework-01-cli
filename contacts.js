@@ -2,7 +2,7 @@ const {v4} = require('uuid');
 const fs = require('fs/promises');
 const path = require('path');
 
-const contactsPath = path.join(__dirname, 'contacts.json');
+const contactsPath = path.join(__dirname, "db", 'contacts.json');
 
 const listContacts = async () => {
     /*If the promise is successfully resolved, the received data is parsed using `JSON.parse(data)` and stored in the variable `contacts`.
